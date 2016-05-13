@@ -2,6 +2,8 @@
 
 <!DOCTYPE html>
 
+<!-- Author: Emma H - 200282755 -->
+
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
